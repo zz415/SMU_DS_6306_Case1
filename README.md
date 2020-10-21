@@ -6,7 +6,7 @@ The following data analysis and files were created exclusively for the Budweiser
 
 2. Knit HTML File: https://zz415.github.io/SMU_DS_6306_Case1/10.20.20-Budweiser_Data_Analysis_knit_file.html
 
-3. PowerPoint Presentation:
+3. PowerPoint Presentation: https://github.com/zz415/SMU_DS_6306_Case1/blob/main/10.20.20%20Budweiser%20Data%20Analysis.pptx
 
 4. Youtube Video:
 
