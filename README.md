@@ -8,8 +8,7 @@ The following data analysis and files were created exclusively for the Budweiser
 
 3. PowerPoint Presentation: https://github.com/zz415/SMU_DS_6306_Case1/blob/main/10.20.20%20Budweiser%20Data%20Analysis.pptx
 
-4. Youtube Video:
-
+4. Youtube Video: https://youtu.be/TNZINIqevhw
 
 The analysis and code are based off of the beer and brewery information provided by Budweiser. The findings from the SMU Consulting Company, were prepared and are represented by data scientists: Zach Zaiken, Feby Thomas and Rinku Lichti. In the Code and presentation attached , the team will be providing data inferences and key takeaways for each of the Budweiser Team’s questions and inquiries. The presentation is divided up into the sections below.
 
